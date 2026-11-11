@@ -17,6 +17,7 @@ Each exercise is a global class that runs in the ADT console.
 | `ZCL_3964_DEBUG` | Ex. 7: Debug ABAP code |
 | `ZCL_3964_LOCAL_CLASS` | Ex. 8: Define a local class |
 | `ZCL_3964_INSTANCES` | Ex. 9: Create and manage instances |
+| `ZCL_3964_METHODS` | Ex. 10: Define and implement methods in local class then call these methods from the main( ) method of global class |
 
 ## How to run
 
