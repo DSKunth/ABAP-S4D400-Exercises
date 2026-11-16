@@ -23,6 +23,7 @@ Each exercise is implemented as a global ABAP class using `IF_OO_ADT_CLASSRUN`, 
 | `ZCL_3964_CONSTRUCTOR` | 11 | Use private attributes and constructors |
 | `ZCL_3964_SELECT` | 12 | Read data from a database table using ABAP SQL |
 | `ZCL_3964_CDS` | 13 | Analyze and use a CDS view entity |
+| `ZCL_3964_STRUCTURE` and `ZCL_3964_STRUCTURE_2` | 14 | Use a structured data object (Use syntax variant INTO CORRESPONDING FIELDS OF) |
 
 ## Prerequisites
 
