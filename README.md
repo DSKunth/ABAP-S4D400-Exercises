@@ -10,20 +10,23 @@ The exercises are organized in the ABAP package `ZS4D400_3964_EXERCISES`.
 
 Each exercise is implemented as a global ABAP class using `IF_OO_ADT_CLASSRUN`, allowing it to be executed directly in the ADT Console.
 
-| Class | Exercise | Topic |
-|---|---|---|
-| `ZCL_3964_HELLO_WORLD` | 3 | Hello World application |
-| `ZCL_3964_COMPUTE` | 4 | Perform calculations using two numbers |
-| `ZCL_3964_BRANCH` | 5 | Implement conditional branching |
-| `ZCL_3964_ITERATE` | 6 | Work with simple internal tables (Fibonacci numbers) |
-| `ZCL_3964_DEBUG` | 7 | Debug ABAP code |
-| `ZCL_3964_LOCAL_CLASS` | 8 | Define a local class |
-| `ZCL_3964_INSTANCES` | 9 | Create and manage instances |
-| `ZCL_3964_METHODS` | 10 | Define, implement, and call methods in a local class |
-| `ZCL_3964_CONSTRUCTOR` | 11 | Use private attributes and constructors |
-| `ZCL_3964_SELECT` | 12 | Read data from a database table using ABAP SQL |
-| `ZCL_3964_CDS` | 13 | Analyze and use a CDS view entity |
-| `ZCL_3964_STRUCTURE` and `ZCL_3964_STRUCTURE_2` | 14 | Use a structured data object (Use syntax variant INTO CORRESPONDING FIELDS OF) |
+| No. | Exercise | Class | Tasks |
+|---:|---:|---|---|
+| – | 1 | – | Create an ABAP Cloud Project and Investigate ABAP Coding |
+| – | 2 | – | Create an ABAP Package |
+| 1 | 3 | `ZCL_3964_HELLO_WORLD` | Hello World application |
+| 2 | 4 | `ZCL_3964_COMPUTE` | Perform calculations using two numbers |
+| 3 | 5 | `ZCL_3964_BRANCH` | Implement conditional branching |
+| 4 | 6 | `ZCL_3964_ITERATE` | Work with simple internal tables (Fibonacci numbers) |
+| 5 | 7 | `ZCL_3964_DEBUG` | Debug ABAP code |
+| 6 | 8 | `ZCL_3964_LOCAL_CLASS` | Define a local class |
+| 7 | 9 | `ZCL_3964_INSTANCES` | Create and manage instances |
+| 8 | 10 | `ZCL_3964_METHODS` | Define, implement, and call methods in a local class |
+| 9 | 11 | `ZCL_3964_CONSTRUCTOR` | Use private attributes and constructors |
+| 10 | 12 | `ZCL_3964_SELECT` | Read data from a database table using ABAP SQL |
+| 11 | 13 | `ZCL_3964_CDS` | Analyze and use a CDS view entity |
+| 12 | 14 | `ZCL_3964_STRUCTURE` | Use a structured data object (INTO CORRESPONDING FIELDS OF) |
+| 13 | 14 | `ZCL_3964_STRUCTURE_2` | Use a structured data object (INTO CORRESPONDING FIELDS OF) |
 
 ## Prerequisites
 
