@@ -30,7 +30,7 @@ The exercises cover ABAP programming, database operations, Core Data Services (C
 | 15 - Use a Complex Internal Table | 14 | `ZCL_3964_ITAB` | Declare a table-like attribute, populate it using a SELECT statement, and access its contents. |
 | 16 - Analyze a Business Object | – | – | Analyze the business object interface `/DMO/I_AgencyTP` to understand its structure and data manipulation operations. |
 | 17 - Modify Data Using EML | 15 | `ZCL_3964_EML` | Use EML to perform the standard UPDATE operation on the root entity of the business object `/DMO/R_AGENCYTP` via its released stable interface `/DMO/I_AGENCYTP`. |
-| 18 - Copy a Database Table | 15 | `ZCL_3964_COPY` | Create subpackage `ZS4D400_3964_RAP` for OData UI Service development, copy the database table `/LRN/S4D400_APT` to `Z3964FLIGHT`, and use an ABAP class to populate the new database table with flight data. |
+| 18 - Copy a Database Table | 16 | `ZCL_3964_COPY` | Create subpackage `ZS4D400_3964_RAP` for OData UI Service development, copy the database table `/LRN/S4D400_APT` to `Z3964FLIGHT`, and use an ABAP class to populate the new database table with flight data. |
 
 
 ## Prerequisites
