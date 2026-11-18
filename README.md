@@ -29,6 +29,7 @@ Each exercise is implemented as a global ABAP class using `IF_OO_ADT_CLASSRUN`, 
 | 13 | 14 - Use a Structured Data Object | `ZCL_3964_STRUCTURE_2` | Use the alternative syntax `INTO CORRESPONDING FIELDS OF` to populate a structured data object. |
 | 14 | 15 - Use a Complex Internal Table | `ZCL_3964_ITAB` | Declare a table-like attribute, populate it using a SELECT statement, and access its contents. |
 | - | 16 - Analyze a Business Object | - | Analyze the business object interface `/DMO/I_AgencyTP` to find out about its structure and the data manipulation operations. |
+| 15 | 17 - Modify Data Using EML | - | use EML to perform the standard operation update for the root entity of the business object `/DMO/R_AGENCYTP` via its released stable interface `/DMO/I_AGENCYTP` |
 
 
 ## Prerequisites
