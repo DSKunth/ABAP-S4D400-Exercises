@@ -32,6 +32,7 @@ The exercises cover ABAP programming, database operations, Core Data Services (C
 | 17 - Modify Data Using EML | 15 | `ZCL_3964_EML` | Use EML to perform the standard UPDATE operation on the root entity of the business object `/DMO/R_AGENCYTP` via its released stable interface `/DMO/I_AGENCYTP`. |
 | 18 - Copy a Database Table | 16 | `ZCL_3964_COPY` | Create subpackage `ZS4D400_3964_RAP` for OData UI Service development, copy the database table `/LRN/S4D400_APT` to `Z3964FLIGHT`, and use an ABAP class to populate the new database table with flight data. |
 | 19 - Generate and Preview an OData UI Service | - | - | Generate the repository objects for an OData UI service and preview the service as an SAP Fiori app. |
+| 20 - Validate the Flight Price | - | - | Define and implement a validation for the flight price |
 
 
 ## Prerequisites
