@@ -33,6 +33,7 @@ The exercises cover ABAP programming, database operations, Core Data Services (C
 | 18 - Copy a Database Table | 16 | `ZCL_3964_COPY` | Create subpackage `ZS4D400_3964_RAP` for OData UI Service development, copy the database table `/LRN/S4D400_APT` to `Z3964FLIGHT`, and use an ABAP class to populate the new database table with flight data. |
 | 19 - Generate and Preview an OData UI Service | - | - | Generate the repository objects for an OData UI service and preview the service as an SAP Fiori app. |
 | 20 - Validate the Flight Price | - | - | Define and implement a validation for the flight price |
+| 21 - Adjust the User Interface | - | - | Explore the value help provided in the application and adjust the user interface of the generated app directly by editing the UI metadata |
 
 
 ## Prerequisites
