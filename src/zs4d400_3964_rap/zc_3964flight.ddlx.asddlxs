@@ -40,9 +40,6 @@ annotate view ZC_3964FLIGHT with
   @UI.lineItem: [ {
     position: 30 
   } ]
-  @UI.selectionField: [ {
-    position: 30 
-  } ]
   FlightDate;
   
   @UI.identification: [ {
@@ -51,18 +48,12 @@ annotate view ZC_3964FLIGHT with
   @UI.lineItem: [ {
     position: 40 
   } ]
-  @UI.selectionField: [ {
-    position: 40 
-  } ]
   Price;
   
   @UI.identification: [ {
-    position: 50 
+    position: 35 
   } ]
   @UI.lineItem: [ {
-    position: 50 
-  } ]
-  @UI.selectionField: [ {
     position: 50 
   } ]
   PlaneTypeID;
@@ -73,9 +64,7 @@ annotate view ZC_3964FLIGHT with
   @UI.lineItem: [ {
     position: 60 
   } ]
-  @UI.selectionField: [ {
-    position: 60 
-  } ]
+  @UI.hidden: true
   LocalCreatedBy;
   
   @UI.identification: [ {
@@ -84,9 +73,7 @@ annotate view ZC_3964FLIGHT with
   @UI.lineItem: [ {
     position: 70 
   } ]
-  @UI.selectionField: [ {
-    position: 70 
-  } ]
+  @UI.hidden: true
   LocalCreatedAt;
   
   @UI.identification: [ {
@@ -95,9 +82,7 @@ annotate view ZC_3964FLIGHT with
   @UI.lineItem: [ {
     position: 80 
   } ]
-  @UI.selectionField: [ {
-    position: 80 
-  } ]
+  @UI.hidden: true
   LocalLastChangedBy;
   
   @UI.identification: [ {
@@ -106,9 +91,7 @@ annotate view ZC_3964FLIGHT with
   @UI.lineItem: [ {
     position: 90 
   } ]
-  @UI.selectionField: [ {
-    position: 90 
-  } ]
+  @UI.hidden: true
   LocalLastChangedAt;
   
   @UI.identification: [ {
@@ -117,8 +100,6 @@ annotate view ZC_3964FLIGHT with
   @UI.lineItem: [ {
     position: 100 
   } ]
-  @UI.selectionField: [ {
-    position: 100 
-  } ]
+  @UI.hidden: true
   LastChangedAt;
 }

@@ -33,6 +33,7 @@ authorization master( global )
   delete;
 
   validation validatePrice on save { create; field Price; }
+
   draft action Activate optimized;
   draft action Discard;
   draft action Edit;
